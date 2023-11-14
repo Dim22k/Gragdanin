@@ -1,10 +1,8 @@
 {
-  "latestVersion": "1.2.2",
-  "latestVersionCode": 10,
-  "url": "https://github.com/javiersantos/AppUpdater/releases",
+  "latestVersion": "0.3.1",
+  "latestVersionCode": 1,
+  "url": "https://github.com/Dim22k/Gragdanin/gragdanin.apk",
   "releaseNotes": [
-    "- First evolution",
-    "- Second evolution",
-    "- Bug fixes"
+    "Автообновление программы",
   ]
 }
