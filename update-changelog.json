@@ -1,9 +1,6 @@
 {
-  "\"latestVersion\":\"0.3.1\",": {
-    "\"latestVersionCode\":1,": {},
-    "\"url\":\"https://github.com/Dim22k/Gragdanin/gragdanin.apk\",": {},
-    "\"releaseNotes\":": {
-      "\"Автообновлениепрограммы\",": {}
-    }
-  }
+"latestVersion": "0.3.1",
+"latestVersionCode": "1",
+"url": "https://github.com/Dim22k/Gragdanin/gragdanin.apk",
+"releaseNotes": ["Авто-обновление"]
 }
